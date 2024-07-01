@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working in Infosys as a Quality Engineer.
+- 😄 I'm an API and selenium tester.
+- 👯 Also developing tools that help to automate and reduce the work load in these areas
+- ⚡ Keen on learning new things
 <!--
 **ashiqshahin/ashiqshahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
